@@ -1,4 +1,4 @@
-package Lab02_exer5;
+package lab02.Lab02_exer5;
 
 import java.util.Scanner;
 import java.util.Arrays;
@@ -39,10 +39,11 @@ public class Days{
     }
 
     public static void main(String[] args){
-        System.out.println("******** CHECK NUMBER OF DAYS IN MONTH ********");
-        row = scan.nextInt();
-        int month, year;
         Scanner scan = new Scanner(System.in);
+        System.out.println("******** CHECK NUMBER OF DAYS IN MONTH ********");
+        int row = scan.nextInt();
+        int month, year;
+        
         System.out.print("Enter the year to check: ");
         year = scan.nextInt();
         do{

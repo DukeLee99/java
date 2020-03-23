@@ -1,4 +1,4 @@
-package Lab02_exer6;
+package lab02.Lab02_exer6;
 
 import java.util.Arrays;
 import java.util.List;
@@ -65,7 +65,6 @@ public class ArrayProgram {
     }
     public static void main(String[] args){
         System.out.println("******* ARRAY PROGRAM ********");
-        row = scan.nextInt();
         Scanner scan = new Scanner(System.in);
 
         int n;

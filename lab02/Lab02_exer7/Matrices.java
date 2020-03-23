@@ -1,4 +1,4 @@
-package Lab02_exer7;
+package lab02.Lab02_exer7;
 
 import java.util.Scanner;
 import java.util.Arrays;

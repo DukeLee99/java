@@ -1,4 +1,4 @@
-package lab01SecondDegreeEqua;
+package lab01.lab01SecondDegreeEqua;
 
 import javax.swing.JOptionPane;
 

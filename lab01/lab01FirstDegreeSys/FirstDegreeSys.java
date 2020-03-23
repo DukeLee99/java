@@ -1,4 +1,4 @@
-package lab01FirstDegreeSys;
+package lab01.lab01FirstDegreeSys;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package Lab02_exer4;
+package lab02.Lab02_exer4;
 
 import java.util.Scanner;
 
@@ -21,7 +21,6 @@ public class Triangle {
 
     public static void main(String[] args){
         System.out.println("***** TRIANGLE DRAWING ********");
-        row = scan.nextInt();
         int degree;
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the degree of the triangle: ");
